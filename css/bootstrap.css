@@ -1,0 +1,19 @@
+:root {
+--purple: #760a7e;
+}
+
+.intro{
+    background-color: var(--purple);
+}
+
+.numbers{
+    background-color: var(--purple);
+}
+
+.questions{
+    background-color: var(--purple);
+}
+
+.contact2{
+    background-color: var(--purple);
+}
