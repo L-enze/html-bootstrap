@@ -1,19 +1,29 @@
-:root {
---purple: #760a7e;
+.navbar {
+  margin-bottom: 20px;
 }
 
-.intro{
-    background-color: var(--purple);
+.intro {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f8f9fa;
 }
 
-.numbers{
-    background-color: var(--purple);
+.features,
+.services,
+.pricing,
+.testimonials,
+.contact {
+  padding: 50px 20px;
 }
 
-.questions{
-    background-color: var(--purple);
+.contact2 {
+  background-color: #f8f9fa;
+  padding: 30px 20px;
 }
 
-.contact2{
-    background-color: var(--purple);
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
 }
