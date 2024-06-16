@@ -1,10 +1,15 @@
 :root {
     --blue: #4620b7;
     --white: #ffffff;
+    --lightpurple: #5328d3;
 }
 
 .button{
     background-color: var(--blue);
+}
+
+.buttonp{
+    background-color: var(--lightpurple);
 }
 
 .buttonhover :hover{
