@@ -7,10 +7,22 @@
     background-color: var(--blue);
 }
 
-.intro {
+.buttonhover :hover{
     background-color: var(--blue);
 }
 
+.intro {
+  background-image: url(/img/counts-bg.png)
+}
+
 .numbers {
-    background-color: var(--blue);
+    background-image: url(/img/counts-bg.png)
+}
+
+.questions{
+    background-image: url(/img/counts-bg.png)
+}
+
+.contact2{
+    background-image: url(/img/counts-bg.png)
 }
