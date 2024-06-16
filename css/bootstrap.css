@@ -1,0 +1,16 @@
+:root {
+    --blue: #4620b7;
+    --white: #ffffff;
+}
+
+.button{
+    background-color: var(--blue);
+}
+
+.intro {
+    background-color: var(--blue);
+}
+
+.white{
+    color: var(--white);
+}
